@@ -1,0 +1,1 @@
+let userName = prompt('adınız ve soyadınız')
